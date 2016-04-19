@@ -1,4 +1,1 @@
-# hello-world
-Takie do nauki
-
-kilka slow o sobie.
+# JAVA-course-2016-04
